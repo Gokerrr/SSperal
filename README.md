@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SSperal
+- 👀 I’m interested in Game devolopment.
+- 🌱 I’m currently learning c#, preparing Pixel assets and Unity 2D.
