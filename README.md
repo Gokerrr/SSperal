@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @SSperal
+- 👋 Hi, I’m @Gokerrr
 - 👀 I’m interested in Game devolopment.
 - 🌱 I’m currently learning c#, preparing Pixel assets and Unity 2D.
